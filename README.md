@@ -1,7 +1,7 @@
 # Event-planner
-This project simulates an application that creates a list of persons thast subscribed to an event. It verifies that input corresponds to what is requested: valid full name, email, phone number. 
-Main commands:
+This project simulates an application which creates a list of persons that subscribed to an event. It checks all inputs to be according to what is requested: valid full name, email, phone number. 
 
+Main commands:
 add          - Add a new person
 check        - Verify if a person subscribet to event
 remove       - Erase a person from list
